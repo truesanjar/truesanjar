@@ -70,10 +70,6 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=truesanjar&theme=dark&background=0D1117&border=00FF88&stroke=00FF88&ring=00FF88&fire=00FF88&currStreakNum=00FF88" width="48%" />
 </p>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=truesanjar&layout=compact&theme=dark&bg_color=0D1117&border_color=00FF88&title_color=00FF88" />
-</p>
-
 ---
 
 ## 🏆 Лоиҳаҳои ман
