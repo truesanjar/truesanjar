@@ -123,8 +123,6 @@
   <img src="https://img.shields.io/badge/Русӣ-Паст-FF4444?style=for-the-badge" />
 </p>
 
-> 🎯 **Ҳадаф:** Англисиамро дар 1 сол аз A2 ба C2 расонам!
-
 ---
 
 ## 📱 Тамос бо ман
