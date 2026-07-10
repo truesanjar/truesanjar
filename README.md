@@ -42,8 +42,8 @@
 ## 📈 Омори GitHub
 
 <p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=USERNAME&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" />
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=USERNAME&theme=tokyonight&hide_border=true&background=0D1117" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=truesanjar&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" />
+  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=truesanjar&theme=tokyonight&hide_border=true&background=0D1117" />
 </p>
 
 <p align="center">
