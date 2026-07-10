@@ -63,15 +63,128 @@
 
 ---
 
-🏆 Лоиҳаҳои ман
-1. 🌐 AnyVoice - Social Network for Freedom of Speech
-<table> <tr> <td width="30%" align="center"> <img src="https://www.anyvoice.world/logo.png" width="180" alt="AnyVoice Logo" /> <br> <sub><i>"Озод зиндагӣ кунед, Озод андешед ва Озодӣ ҳадя кунед."</i></sub> </td> <td width="70%"> <b>Тавсиф:</b> Шабакаи иҷтимоие, ки ба одамон имкон медиҳад бидуни нигаронӣ аз ошкор шудан, фикрҳои худро баён кунанд. Сабти ном бе маълумоти шахсӣ имконпазир аст. Шумо метавонед аксҳо, видеоҳо ва мақолаҳоятонро бо озодии комил нашр кунед. <br><br> <b>Технология:</b> <br> <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" /> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black" /> <img src="https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB" /> <img src="https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white" /> <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=flat&logo=mongodb&logoColor=white" /> <img src="https://img.shields.io/badge/WebSocket-010101?style=flat&logo=socket.io&logoColor=white" /> <img src="https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white" /> <img src="https://img.shields.io/badge/i18n-26A5E4?style=flat&logo=global&logoColor=white" /> <br><br> 🔗 <b>Сайт:</b> <a href="https://www.anyvoice.world/">anyvoice.world</a> </td> </tr> </table>
-2. ⏳ Capsulix Bot - Time Capsule in Telegram
-<table> <tr> <td width="30%" align="center"> <img src="https://www.sanjar.world/capsulix.jpg" width="180" alt="Capsulix Bot" /> </td> <td width="70%"> <b>Тавсиф:</b> Боти Telegram, ки ба шумо имкон медиҳад ба ояндаи худ паём фиристед. Шумо санаро муайян мекунед ва бот дар он рӯз паёматонро ба шумо мефиристад. <br><br> <b>Технология:</b> <br> <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" /> <img src="https://img.shields.io/badge/aiogram-2CA5E0?style=flat&logo=telegram&logoColor=white" /> <br><br> 🔗 <b>Бот:</b> <a href="https://t.me/Capsulixbot">@Capsulixbot</a> </td> </tr> </table>
-3. 🧑‍💻 sanjar.world - Personal Portfolio
-<table> <tr> <td width="30%" align="center"> <img src="https://www.sanjar.world/truesanjar.png" width="180" alt="Sanjar World" /> </td> <td width="70%"> <b>Тавсиф:</b> Портфолиои шахсӣ бо тамоми лоиҳаҳо, маҳоратҳо ва фикрҳои ман. Дастгирии 3 забон (тоҷикӣ, русӣ, англисӣ) ва 2 намуди тарҳ (light/dark). Пурра барои дастгоҳҳои мобилӣ мутобиқшуда. <br><br> <b>Технология:</b> <br> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black" /> <img src="https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB" /> <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat&logo=tailwind-css&logoColor=white" /> <img src="https://img.shields.io/badge/i18n-26A5E4?style=flat&logo=global&logoColor=white" /> <br><br> 🔗 <b>Сайт:</b> <a href="https://www.sanjar.world/">sanjar.world</a> </td> </tr> </table>
-4. 🔒 Messenger0 - Secure Messenger
-<table> <tr> <td width="30%" align="center"> <img src="https://www.messenger0.world/logo.png" width="180" alt="Messenger0 Logo" /> </td> <td width="70%"> <b>Тавсиф:</b> Мессенҷер бо системаи шифргузории E2EE. Сабти ном танҳо бо ҳисоби Google. Шумо метавонед ҳар як корбари дигарро ҷустуҷӯ кунед ва бо онҳо муколамаи комилан амн дошта бошед. <br><br> <b>Технология:</b> <br> <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" /> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black" /> <img src="https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB" /> <img src="https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white" /> <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=flat&logo=mongodb&logoColor=white" /> <img src="https://img.shields.io/badge/WebSocket-010101?style=flat&logo=socket.io&logoColor=white" /> <img src="https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white" /> <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat&logo=tailwind-css&logoColor=white" /> <br><br> 🔗 <b>Сайт:</b> <a href="https://www.messenger0.world/">messenger0.world</a> </td> </tr> </table>
+## 🏆 Лоиҳаҳои ман
+
+1. 🌐 **AnyVoice - Social Network for Freedom of Speech**
+
+<table>
+<tr>
+<td width="30%" align="center">
+<img src="https://www.anyvoice.world/logo.png" width="180" alt="AnyVoice Logo" />
+</td>
+
+<td width="70%">
+<b>Тавсиф:</b> Шабакаи иҷтимоие, ки ба одамон имкон медиҳад бидуни нигаронӣ аз ошкор шудан, фикрҳои худро баён кунанд. Сабти ном бе маълумоти шахсӣ имконпазир аст. Шумо метавонед аксҳо, видеоҳо ва мақолаҳоятонро бо озодии комил нашр кунед.
+<br><br>
+
+<b>Технология:</b>
+<br>
+
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" />
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black" />
+<img src="https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB" />
+<img src="https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white" />
+<img src="https://img.shields.io/badge/MongoDB-4EA94B?style=flat&logo=mongodb&logoColor=white" />
+<img src="https://img.shields.io/badge/WebSocket-010101?style=flat&logo=socket.io&logoColor=white" />
+<img src="https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white" />
+<img src="https://img.shields.io/badge/i18n-26A5E4?style=flat&logo=global&logoColor=white" />
+
+<br><br>
+
+🔗 <b>Сайт:</b> <a href="https://www.anyvoice.world/">anyvoice.world</a>
+
+</td>
+</tr>
+</table>
+
+
+2. ⏳ **Capsulix Bot - Time Capsule in Telegram**
+
+<table>
+<tr>
+<td width="30%" align="center">
+<img src="https://www.sanjar.world/capsulix.jpg" width="180" alt="Capsulix Bot" />
+</td>
+
+<td width="70%">
+<b>Тавсиф:</b> Боти Telegram, ки ба шумо имкон медиҳад ба ояндаи худ паём фиристед. Шумо санаро муайян мекунед ва бот дар он рӯз паёматонро ба шумо мефиристад.
+<br><br>
+
+<b>Технология:</b>
+<br>
+
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" />
+<img src="https://img.shields.io/badge/aiogram-2CA5E0?style=flat&logo=telegram&logoColor=white" />
+
+<br><br>
+
+🔗 <b>Бот:</b> <a href="https://t.me/Capsulixbot">@Capsulixbot</a>
+
+</td>
+</tr>
+</table>
+
+
+3. 🧑‍💻 **sanjar.world - Personal Portfolio**
+
+<table>
+<tr>
+<td width="30%" align="center">
+<img src="https://www.sanjar.world/truesanjar.png" width="180" alt="Sanjar World" />
+</td>
+
+<td width="70%">
+<b>Тавсиф:</b> Портфолиои шахсӣ бо тамоми лоиҳаҳо, маҳоратҳо ва фикрҳои ман. Дастгирии 3 забон (тоҷикӣ, русӣ, англисӣ) ва 2 намуди тарҳ (light/dark). Пурра барои дастгоҳҳои мобилӣ мутобиқшуда.
+<br><br>
+
+<b>Технология:</b>
+<br>
+
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black" />
+<img src="https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB" />
+<img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat&logo=tailwind-css&logoColor=white" />
+<img src="https://img.shields.io/badge/i18n-26A5E4?style=flat&logo=global&logoColor=white" />
+
+<br><br>
+
+🔗 <b>Сайт:</b> <a href="https://www.sanjar.world/">sanjar.world</a>
+
+</td>
+</tr>
+</table>
+
+
+4. 🔒 **Messenger0 - Secure Messenger**
+
+<table>
+<tr>
+<td width="30%" align="center">
+<img src="https://www.messenger0.world/logo.png" width="180" alt="Messenger0 Logo" />
+</td>
+
+<td width="70%">
+<b>Тавсиф:</b> Мессенҷер бо системаи шифргузории E2EE. Сабти ном танҳо бо ҳисоби Google. Шумо метавонед ҳар як корбари дигарро ҷустуҷӯ кунед ва бо онҳо муколамаи комилан амн дошта бошед.
+<br><br>
+
+<b>Технология:</b>
+<br>
+
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" />
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black" />
+<img src="https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB" />
+<img src="https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white" />
+<img src="https://img.shields.io/badge/MongoDB-4EA94B?style=flat&logo=mongodb&logoColor=white" />
+<img src="https://img.shields.io/badge/WebSocket-010101?style=flat&logo=socket.io&logoColor=white" />
+<img src="https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white" />
+<img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat&logo=tailwind-css&logoColor=white" />
+
+<br><br>
+
+🔗 <b>Сайт:</b> <a href="https://www.messenger0.world/">messenger0.world</a>
+
+</td>
+</tr>
+</table>
 
 ---
 
