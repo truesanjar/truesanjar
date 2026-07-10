@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=32&duration=3000&pause=500&color=00FF88&center=true&vCenter=true&width=500&lines=%D0%90%D1%81%D0%B0%D0%B4%D0%B7%D0%BE%D0%B4%D0%B0+%D0%A1%D0%B0%D0%BD%D2%B7%D0%B0%D1%80;Software+Engineer;%D0%9E%D0%B7%D0%BE%D0%B4+%D0%B7%D0%B8%D0%BD%D0%B4%D0%B0%D0%B3%D3%A3+%D0%BA%D1%83%D0%BD%D0%B5%D0%B4!;17+%D1%81%D0%BE%D0%BB%D0%B0+%7C+%D0%B0%D0%B7+%D0%A2%D0%BE%D2%B7%D0%B8%D0%BA%D0%B8%D1%81%D1%82%D0%BE%D0%BD" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=32&duration=3000&pause=500&color=00FF88&center=true&vCenter=true&width=500&lines=Asadzoda+Sanjar;Software+Engineer;Live+free!;17+y.o.+%7C+From+Tajikistan" alt="Typing SVG" />
 </p>
 
 ---
@@ -8,9 +8,9 @@
   <img src="https://www.sanjar.world/truesanjar.png" width="200" height="200" style="border-radius: 50%; border: 4px solid #00FF88;" alt="Sanjar" />
 </div>
 
-<h1 align="center">👋 Салом! Ман Асадзода Санҷар Илҳом</h1>
+<h1 align="center">👋 Hi! I'm Asadzoda Sanjar Ilhom</h1>
 
-<h3 align="center" style="color: #00FF88;">Software Engineer | 17 сола | Аз Тоҷикистон</h3>
+<h3 align="center" style="color: #00FF88;">Software Engineer | 17 years old | From Tajikistan</h3>
 
 <p align="center">
   <img src="https://img.shields.io/badge/Age-17-white?style=for-the-badge&labelColor=black" />
@@ -20,33 +20,33 @@
 
 ---
 
-## 🚀 Дар бораи ман
+## 🚀 About Me
 
-Ман **муҳандиси нармафзори** 17-сола ҳастам, ки дар **Турсунзода(шаҳре дар Тоҷикистон)** зиндагӣ мекунам. Бо **2+ сол** таҷриба дар соҳаи **веб-таҳия**, ман лоиҳаҳои пурра (аз фронтенд то бэкенд ва деплой) месозам. Ҳадафи ман — сохтани платформаҳоест, ки ба одамон **ОЗОДӢ** диҳанд.
+I am a **17-year-old software engineer** living in **Tursunzoda (a city in Tajikistan)**. With **2+ years** of experience in **web development**, I build full-stack projects (from frontend to backend and deployment). My goal is to create platforms that give people **FREEDOM**.
 
-- 🔭 Ҳоло кор мекунам: **Дар ҷустуҷӯи мушкиле барои ҳал кардан ва стартап сохтан**
-- 🌱 Омӯхта истодаам: **JavaScript, TensorFlow, Nginx, HTML/CSS**
-- 💡 Шиори ман: **"Озод зиндагӣ кунед, Озод андешед ва Озодӣ ҳадя кунед."**
-- 🎯 Ҳадафам барои оянда: **Сохтани стартап. Аммо ҳозир ягон идея надорам ва дар пайи идея ҳастам.**
+- 🔭 Currently working on: **Searching for a problem to solve and building a startup**
+- 🌱 Learning: **JavaScript, TensorFlow, Nginx, HTML/CSS**
+- 💡 My motto: **"Live free, think free, and give freedom."**
+- 🎯 Future goal: **Building a startup. But I don't have an idea yet, so I'm looking for one.**
 
 ---
 
-## 🛠 Маҳоратҳои техникӣ
+## 🛠 Technical Skills
 
-<h3 align="center">⚡ Забонҳои барномасозӣ</h3>
+<h3 align="center">⚡ Programming Languages</h3>
 <p align="center">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
 </p>
 
-<h3 align="center">⚡ Фреймворк ва китобхонаҳо</h3>
+<h3 align="center">⚡ Frameworks & Libraries</h3>
 <p align="center">
   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
   <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" />
   <img src="https://img.shields.io/badge/aiogram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" />
 </p>
 
-<h3 align="center">⚡ Технологияҳои дигар</h3>
+<h3 align="center">⚡ Other Technologies</h3>
 <p align="center">
   <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" />
   <img src="https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white" />
@@ -61,7 +61,7 @@
 
 ---
 
-## 🏆 Лоиҳаҳои ман
+## 🏆 My Projects
 
 1. 🌐 **AnyVoice - Social Network for Freedom of Speech**
 
@@ -72,10 +72,10 @@
 </td>
 
 <td width="70%">
-<b>Тавсиф:</b> Шабакаи иҷтимоие, ки ба одамон имкон медиҳад бидуни нигаронӣ аз ошкор шудан, фикрҳои худро баён кунанд. Сабти ном бе маълумоти шахсӣ имконпазир аст. Шумо метавонед аксҳо, видеоҳо ва мақолаҳоятонро бо озодии комил нашр кунед.
+<b>Description:</b> A social network that allows people to express their thoughts freely without worrying about being exposed. Registration is possible without personal information. You can publish your photos, videos, and articles with complete freedom.
 <br><br>
 
-<b>Технология:</b>
+<b>Tech Stack:</b>
 <br>
 
 <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" />
@@ -89,7 +89,7 @@
 
 <br><br>
 
-🔗 <b>Сайт:</b> <a href="https://www.anyvoice.world/">anyvoice.world</a>
+🔗 <b>Website:</b> <a href="https://www.anyvoice.world/">anyvoice.world</a>
 
 </td>
 </tr>
@@ -105,10 +105,10 @@
 </td>
 
 <td width="70%">
-<b>Тавсиф:</b> Боти Telegram, ки ба шумо имкон медиҳад ба ояндаи худ паём фиристед. Шумо санаро муайян мекунед ва бот дар он рӯз паёматонро ба шумо мефиристад.
+<b>Description:</b> A Telegram bot that allows you to send a message to your future self. You set a date, and the bot will send you your message on that day.
 <br><br>
 
-<b>Технология:</b>
+<b>Tech Stack:</b>
 <br>
 
 <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" />
@@ -116,7 +116,7 @@
 
 <br><br>
 
-🔗 <b>Бот:</b> <a href="https://t.me/Capsulixbot">@Capsulixbot</a>
+🔗 <b>Bot:</b> <a href="https://t.me/Capsulixbot">@Capsulixbot</a>
 
 </td>
 </tr>
@@ -132,10 +132,10 @@
 </td>
 
 <td width="70%">
-<b>Тавсиф:</b> Портфолиои шахсӣ бо тамоми лоиҳаҳо, маҳоратҳо ва фикрҳои ман. Дастгирии 3 забон (тоҷикӣ, русӣ, англисӣ) ва 2 намуди тарҳ (light/dark). Пурра барои дастгоҳҳои мобилӣ мутобиқшуда.
+<b>Description:</b> My personal portfolio with all my projects, skills, and ideas. Supports 3 languages (Tajik, Russian, English) and 2 themes (light/dark). Fully responsive for mobile devices.
 <br><br>
 
-<b>Технология:</b>
+<b>Tech Stack:</b>
 <br>
 
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black" />
@@ -145,7 +145,7 @@
 
 <br><br>
 
-🔗 <b>Сайт:</b> <a href="https://www.sanjar.world/">sanjar.world</a>
+🔗 <b>Website:</b> <a href="https://www.sanjar.world/">sanjar.world</a>
 
 </td>
 </tr>
@@ -161,10 +161,10 @@
 </td>
 
 <td width="70%">
-<b>Тавсиф:</b> Мессенҷер бо системаи шифргузории E2EE. Сабти ном танҳо бо ҳисоби Google. Шумо метавонед ҳар як корбари дигарро ҷустуҷӯ кунед ва бо онҳо муколамаи комилан амн дошта бошед.
+<b>Description:</b> A messenger with an E2EE encryption system. Registration is only possible with a Google account. You can search for any other user and have completely secure conversations with them.
 <br><br>
 
-<b>Технология:</b>
+<b>Tech Stack:</b>
 <br>
 
 <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" />
@@ -178,7 +178,7 @@
 
 <br><br>
 
-🔗 <b>Сайт:</b> <a href="https://www.messenger0.world/">messenger0.world</a>
+🔗 <b>Website:</b> <a href="https://www.messenger0.world/">messenger0.world</a>
 
 </td>
 </tr>
@@ -186,7 +186,7 @@
 
 ---
 
-## 📱 Тамос бо ман
+## 📱 Contact Me
 
 <p align="center">
   <a href="https://t.me/truesanjar"><img src="https://cdn.simpleicons.org/telegram" width="40" /></a>&nbsp;&nbsp;&nbsp;
@@ -199,10 +199,10 @@
 
 ---
 
-## 🎯 Ҳадафҳои ман
+## 🎯 My Goals
 
-| Муддат | Ҳадаф |
-|--------|-------|
-| **1 сол** | Англисиамро аз A2 ба C2 расонам |
-| **5 сол** | Хатми донишгоҳ дар Тоҷикистон ва муҳоҷират ба **Амрико** ё **Олмон** |
-| **Дарозмуддат** | Стартапи худро созам ё дар соҳаи **AI** кор кунам |
+| Timeline | Goal |
+|----------|------|
+| **1 year** | Improve my English from A2 to C2 |
+| **5 years** | Graduate from university in Tajikistan and immigrate to **the USA** or **Germany** |
+| **Long-term** | Build my own startup or work in the field of **AI** |
