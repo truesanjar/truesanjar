@@ -189,12 +189,12 @@
 ## 📱 Тамос бо ман
 
 <p align="center">
-  <a href="https://t.me/truesanjar"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" /></a>
-  <a href="https://signal.me/#eu/pMdvF4xmRcsM8hSjDON1sSo_XICNIv5XfR0bBspgtF2VujTcWURKx7BTTWzo--ku"><img src="https://img.shields.io/badge/Signal-3A76F0?style=for-the-badge&logo=signal&logoColor=white" /></a>
-  <a href="https://wa.me/992078804334"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" /></a>
-  <a href="https://www.instagram.com/truesanjar/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
-  <a href="https://www.linkedin.com/in/truesanjar/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="mailto:truesanjar@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://t.me/truesanjar"><img src="https://cdn.simpleicons.org/telegram" width="40" /></a>&nbsp;&nbsp;&nbsp;
+  <a href="https://signal.me/#eu/pMdvF4xmRcsM8hSjDON1sSo_XICNIv5XfR0bBspgtF2VujTcWURKx7BTTWzo--ku"><img src="https://cdn.simpleicons.org/signal" width="40" /></a>&nbsp;&nbsp;&nbsp;
+  <a href="https://wa.me/992078804334"><img src="https://cdn.simpleicons.org/whatsapp" width="40" /></a>&nbsp;&nbsp;&nbsp;
+  <a href="https://www.instagram.com/truesanjar/"><img src="https://skillicons.dev/icons?i=instagram" width="40" /></a>&nbsp;&nbsp;&nbsp;
+  <a href="https://www.linkedin.com/in/truesanjar/"><img src="https://skillicons.dev/icons?i=linkedin" width="40" /></a>&nbsp;&nbsp;&nbsp;
+  <a href="mailto:truesanjar@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" width="40" /></a>
 </p>
 
 ---
