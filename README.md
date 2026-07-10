@@ -63,19 +63,6 @@
 
 ---
 
-## 📊 Дараҷаи дониш
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=asadzoda&show_icons=true&theme=dark&bg_color=0D1117&border_color=00FF88&title_color=00FF88&icon_color=00FF88" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=asadzoda&theme=dark&background=0D1117&border=00FF88&stroke=00FF88&ring=00FF88&fire=00FF88&currStreakNum=00FF88" width="48%" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=asadzoda&layout=compact&theme=dark&bg_color=0D1117&border_color=00FF88&title_color=00FF88" />
-</p>
-
----
-
 🏆 Лоиҳаҳои ман
 1. 🌐 AnyVoice - Social Network for Freedom of Speech
 <table> <tr> <td width="30%" align="center"> <img src="https://www.anyvoice.world/logo.png" width="180" alt="AnyVoice Logo" /> <br> <sub><i>"Озод зиндагӣ кунед, Озод андешед ва Озодӣ ҳадя кунед."</i></sub> </td> <td width="70%"> <b>Тавсиф:</b> Шабакаи иҷтимоие, ки ба одамон имкон медиҳад бидуни нигаронӣ аз ошкор шудан, фикрҳои худро баён кунанд. Сабти ном бе маълумоти шахсӣ имконпазир аст. Шумо метавонед аксҳо, видеоҳо ва мақолаҳоятонро бо озодии комил нашр кунед. <br><br> <b>Технология:</b> <br> <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" /> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black" /> <img src="https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB" /> <img src="https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white" /> <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=flat&logo=mongodb&logoColor=white" /> <img src="https://img.shields.io/badge/WebSocket-010101?style=flat&logo=socket.io&logoColor=white" /> <img src="https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white" /> <img src="https://img.shields.io/badge/i18n-26A5E4?style=flat&logo=global&logoColor=white" /> <br><br> 🔗 <b>Сайт:</b> <a href="https://www.anyvoice.world/">anyvoice.world</a> </td> </tr> </table>
@@ -85,43 +72,6 @@
 <table> <tr> <td width="30%" align="center"> <img src="https://www.sanjar.world/truesanjar.png" width="180" alt="Sanjar World" /> </td> <td width="70%"> <b>Тавсиф:</b> Портфолиои шахсӣ бо тамоми лоиҳаҳо, маҳоратҳо ва фикрҳои ман. Дастгирии 3 забон (тоҷикӣ, русӣ, англисӣ) ва 2 намуди тарҳ (light/dark). Пурра барои дастгоҳҳои мобилӣ мутобиқшуда. <br><br> <b>Технология:</b> <br> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black" /> <img src="https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB" /> <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat&logo=tailwind-css&logoColor=white" /> <img src="https://img.shields.io/badge/i18n-26A5E4?style=flat&logo=global&logoColor=white" /> <br><br> 🔗 <b>Сайт:</b> <a href="https://www.sanjar.world/">sanjar.world</a> </td> </tr> </table>
 4. 🔒 Messenger0 - Secure Messenger
 <table> <tr> <td width="30%" align="center"> <img src="https://www.messenger0.world/logo.png" width="180" alt="Messenger0 Logo" /> </td> <td width="70%"> <b>Тавсиф:</b> Мессенҷер бо системаи шифргузории E2EE. Сабти ном танҳо бо ҳисоби Google. Шумо метавонед ҳар як корбари дигарро ҷустуҷӯ кунед ва бо онҳо муколамаи комилан амн дошта бошед. <br><br> <b>Технология:</b> <br> <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" /> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black" /> <img src="https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB" /> <img src="https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white" /> <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=flat&logo=mongodb&logoColor=white" /> <img src="https://img.shields.io/badge/WebSocket-010101?style=flat&logo=socket.io&logoColor=white" /> <img src="https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white" /> <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat&logo=tailwind-css&logoColor=white" /> <br><br> 🔗 <b>Сайт:</b> <a href="https://www.messenger0.world/">messenger0.world</a> </td> </tr> </table>
-📊 Омори лоиҳаҳо
-<p align="center"> <img src="https://img.shields.io/badge/Лоиҳаҳо-4-00FF88?style=for-the-badge" /> <img src="https://img.shields.io/badge/Сайтҳои_зинда-3-00FF88?style=for-the-badge" /> <img src="https://img.shields.io/badge/Боти_Telegram-1-00FF88?style=for-the-badge" /> <img src="https://img.shields.io/badge/Технологияҳо-14+-00FF88?style=for-the-badge" /> </p>
-
----
-
-## 📈 Дастаи технологӣ (Technology Radar)
-
-<p align="center">
-  <table>
-    <tr>
-      <td><b>🔥 Дӯстдошта</b></td>
-      <td>Python • React • FastAPI • VPS • MongoDB</td>
-    </tr>
-    <tr>
-      <td><b>📚 Дар ҳоли омӯзиш</b></td>
-      <td>JavaScript • TensorFlow • Nginx • HTML/CSS</td>
-    </tr>
-    <tr>
-      <td><b>💡 Таҷрибаи кофӣ</b></td>
-      <td>aiogram • Git/GitHub • VS Code • API • Tailwind</td>
-    </tr>
-    <tr>
-      <td><b>🚀 Барои рушд</b></td>
-      <td>Docker • Linux/Bash</td>
-    </tr>
-  </table>
-</p>
-
----
-
-## 🌍 Забонҳо
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Тоҷикӣ-Модари-00FF88?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Англисӣ-Миёна (A2→C2)-FFA500?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Русӣ-Паст-FF4444?style=for-the-badge" />
-</p>
 
 ---
 
@@ -143,18 +93,6 @@
 
 ---
 
-## 🎬 Филми дӯстдошта
-
-<p align="center">
-  <img src="https://media.giphy.com/media/3o7abkhJp7A5qMhVFK/giphy.gif" width="400" alt="The Social Network" />
-</p>
-
-<p align="center" style="font-size: 20px;">
-  🎥 <b>"The Social Network"</b> — Филме, ки маро ба сохтани шабакаҳои иҷтимоӣ илҳом бахшид!
-</p>
-
----
-
 ## 🎯 Ҳадафҳои ман
 
 | Муддат | Ҳадаф |
@@ -165,20 +103,7 @@
 
 ---
 
-## 💫 Омори лоиҳаҳо
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Лоиҳаҳо-4-00FF88?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Сайтҳои_зинда-3-00FF88?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Боти_Telegram-1-00FF88?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Технологияҳо-14+-00FF88?style=for-the-badge" />
-</p>
-
----
-
 ## 💬 Хулоса
-
-> **"Озод зиндагӣ кунед, Озод андешед ва Озодӣ ҳадя кунед."**
 
 Ман Асадзода Санҷар — муҳандиси нармафзоре ҳастам, ки ба озодӣ ва эҷодкорӣ бовар дорад. Ҳар як лоиҳаи ман барои он сохта шудааст, ки ба одамон имкони ифодаи фикр ва муоширати амнро диҳад.
 
