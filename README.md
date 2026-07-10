@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=32&duration=3000&pause=500&color=00FF88&center=true&vCenter=true&width=500&lines=%D0%90%D1%81%D0%B0%D0%B4%D0%B7%D0%BE%D0%B4%D0%B0+%D0%A1%D0%B0%D0%BD%D2%B7%D0%B0%D1%80;Software+Engineer;%D0%9E%D0%B7%D0%BE%D0%B4+%D0%B7%D0%B8%D0%BD%D0%B4%D0%B0%D0%B3%D3%A3+%D0%BA%D1%83%D0%BD%D0%B5%D0%B4!;17+%D1%81%D0%BE%D0%BB%D0%B0+%7C+%D0%A2%D0%BE%D2%B7%D0%B8%D0%BA%D0%B8%D1%81%D1%82%D0%BE%D0%BD" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=32&duration=3000&pause=500&color=00FF88&center=true&vCenter=true&width=500&lines=%D0%90%D1%81%D0%B0%D0%B4%D0%B7%D0%BE%D0%B4%D0%B0+%D0%A1%D0%B0%D0%BD%D2%B7%D0%B0%D1%80;Software+Engineer;%D0%9E%D0%B7%D0%BE%D0%B4+%D0%B7%D0%B8%D0%BD%D0%B4%D0%B0%D0%B3%D3%A3+%D0%BA%D1%83%D0%BD%D0%B5%D0%B4!;17+%D1%81%D0%BE%D0%BB%D0%B0+%7C+%D0%B0%D0%B7+%D0%A2%D0%BE%D2%B7%D0%B8%D0%BA%D0%B8%D1%81%D1%82%D0%BE%D0%BD" alt="Typing SVG" />
 </p>
 
 ---
@@ -13,22 +13,21 @@
 <h3 align="center" style="color: #00FF88;">Software Engineer | 17 сола | Аз Тоҷикистон</h3>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Age-17-00FF88?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/From-Tajikistan-00FF88?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Experience-2%2B%20Years-00FF88?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Age-17-white?style=for-the-badge&labelColor=black" />
+  <img src="https://img.shields.io/badge/From-Tajikistan-white?style=for-the-badge&labelColor=black" />
+  <img src="https://img.shields.io/badge/Experience-2%2B%20Years-white?style=for-the-badge&labelColor=black" />
 </p>
 
 ---
 
 ## 🚀 Дар бораи ман
 
-Ман **муҳандиси нармафзори** 17-сола ҳастам, ки дар **Турсунзода, Тоҷикистон** зиндагӣ мекунам. Бо **2+ сол** таҷриба дар соҳаи **веб-таҳия**, ман лоиҳаҳои пурра (аз фронтенд то бэкенд ва деплой) месозам. Ҳадафи ман — сохтани платформаҳоест, ки ба одамон **ОЗОДӢ** диҳанд.
+Ман **муҳандиси нармафзори** 17-сола ҳастам, ки дар **Турсунзода(шаҳре дар Тоҷикистон)** зиндагӣ мекунам. Бо **2+ сол** таҷриба дар соҳаи **веб-таҳия**, ман лоиҳаҳои пурра (аз фронтенд то бэкенд ва деплой) месозам. Ҳадафи ман — сохтани платформаҳоест, ки ба одамон **ОЗОДӢ** диҳанд.
 
-- 🔭 Ҳоло кор мекунам: **Такмил додани AnyVoice ва лоиҳаҳои нав**
+- 🔭 Ҳоло кор мекунам: **Дар ҷустуҷӯи мушкиле барои ҳал кардан ва стартап сохтан**
 - 🌱 Омӯхта истодаам: **JavaScript, TensorFlow, Nginx, HTML/CSS**
 - 💡 Шиори ман: **"Озод зиндагӣ кунед, Озод андешед ва Озодӣ ҳадя кунед."**
-- 🎯 Ҳадафи 1 сол: **Англисиамро аз A2 ба C2 расонам**
-- 🎯 Ҳадафи 5 сол: **Хатми донишгоҳ ва муҳоҷират ба Амрико ё Олмон**
+- 🎯 Ҳадафам барои оянда: **Сохтани стартап. Аммо ҳозир ягон идея надорам ва дар пайи идея ҳастам.**
 
 ---
 
@@ -38,15 +37,12 @@
 <p align="center">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
 </p>
 
 <h3 align="center">⚡ Фреймворк ва китобхонаҳо</h3>
 <p align="center">
   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
   <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" />
-  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
   <img src="https://img.shields.io/badge/aiogram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" />
 </p>
 
@@ -59,6 +55,8 @@
   <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
   <img src="https://img.shields.io/badge/VPS-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white" />
   <img src="https://img.shields.io/badge/API-FF6C37?style=for-the-badge&logo=postman&logoColor=white" />
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
 </p>
 
 ---
@@ -98,7 +96,7 @@
 </table>
 
 
-2. ⏳ **Capsulix Bot - Time Capsule in Telegram**
+2. ⏳ **Capsulix - Time Capsule in Telegram**
 
 <table>
 <tr>
@@ -197,7 +195,6 @@
   <a href="https://www.instagram.com/truesanjar/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
   <a href="https://www.linkedin.com/in/truesanjar/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
   <a href="mailto:truesanjar@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  <a href="https://github.com/truesanjar"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" /></a>
 </p>
 
 ---
@@ -208,4 +205,4 @@
 |--------|-------|
 | **1 сол** | Англисиамро аз A2 ба C2 расонам |
 | **5 сол** | Хатми донишгоҳ дар Тоҷикистон ва муҳоҷират ба **Амрико** ё **Олмон** |
-| **Дарозмуддат** | Стартапи худро созам ва дар соҳаи **AI** кор кунам |
+| **Дарозмуддат** | Стартапи худро созам ё дар соҳаи **AI** кор кунам |
