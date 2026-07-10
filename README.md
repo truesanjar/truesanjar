@@ -1,115 +1,275 @@
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=30&duration=3000&pause=500&color=00F7FF&center=true&vCenter=true&width=435&lines=%D0%A1%D0%B0%D0%BB%D0%BE%D0%BC+%D0%B0%D0%BB%D0%B5%D0%B9%D0%BA%D1%83%D0%BC;%D0%91%D0%B0+%D1%88%D1%83%D0%BC%D0%BE+%D0%BE%D0%BC%D0%B0%D0%B4%D0%B0%D0%BC!;%D0%AE%D1%81%D1%82%D0%B0%D0%B4%D0%BE%D0%B8+%D1%84%D0%B0%D0%BD%D0%BD%D0%B0%D0%B2%D0%BE%D1%80%D3%A3" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=32&duration=3000&pause=500&color=00FF88&center=true&vCenter=true&width=500&lines=%D0%90%D1%81%D0%B0%D0%B4%D0%B7%D0%BE%D0%B4%D0%B0+%D0%A1%D0%B0%D0%BD%D2%B7%D0%B0%D1%80;Software+Engineer;%D0%9E%D0%B7%D0%BE%D0%B4+%D0%B7%D0%B8%D0%BD%D0%B4%D0%B0%D0%B3%D3%A3+%D0%BA%D1%83%D0%BD%D0%B5%D0%B4!;17+%D1%81%D0%BE%D0%BB%D0%B0+%7C+%D0%A2%D0%BE%D2%B7%D0%B8%D0%BA%D0%B8%D1%81%D1%82%D0%BE%D0%BD" alt="Typing SVG" />
 </p>
 
 ---
 
-# 👋 Салом! Ман [Номи Шумо] ҳастам
+<div align="center">
+  <img src="https://www.sanjar.world/truesanjar.png" width="200" height="200" style="border-radius: 50%; border: 4px solid #00FF88;" alt="Sanjar" />
+</div>
 
-<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" />
+<h1 align="center">👋 Салом! Ман Асадзода Санҷар Илҳом</h1>
 
-### 🚀 Дар бораи ман
-Ман **муҳандиси нармафзор** ва **таҳиягари веб** бо **3+ сол** таҷрибаи корӣ ҳастам. Ба сохтани **вебсайтҳои зебо**, **барномаҳои мобилӣ** ва **системаҳои мураккаб** иштиғол дорам. Ҳадафи ман — табдил додани ғояҳо ба воқеият бо коди тоза ва эҷодкорӣ.
+<h3 align="center" style="color: #00FF88;">Software Engineer | 17 сола | Аз Тоҷикистон</h3>
 
-- 🔭 Ҳоло кор мекунам: **Лоиҳаи AI-барои тиҷорат**
-- 🌱 Омӯхта истодаам: **React Native** ва **TypeScript**
-- 👯 Мекӯшам ҳамкорӣ кунам: дар **лоиҳаҳои Open Source**
-- 💬 Пурсед: дар бораи **JavaScript, Python, ва архитектураи веб**
-- 📫 Тамос: **[почтаи электронии шумо]**
-- ⚡ Факти ҷолиб: **Ман қаҳваро бо шир ва шакар бештар дӯст медорам ☕**
+<p align="center">
+  <img src="https://img.shields.io/badge/Age-17-00FF88?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/From-Tajikistan-00FF88?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Experience-2%2B%20Years-00FF88?style=for-the-badge" />
+</p>
 
 ---
 
-## 🛠 Маҳоратҳо ва технологияҳо
+## 🚀 Дар бораи ман
 
+Ман **муҳандиси нармафзори** 17-сола ҳастам, ки дар **Турсунзода, Тоҷикистон** зиндагӣ мекунам. Бо **2+ сол** таҷриба дар соҳаи **веб-таҳия**, ман лоиҳаҳои пурра (аз фронтенд то бэкенд ва деплой) месозам. Ҳадафи ман — сохтани платформаҳоест, ки ба одамон **ОЗОДӢ** диҳанд.
+
+- 🔭 Ҳоло кор мекунам: **Такмил додани AnyVoice ва лоиҳаҳои нав**
+- 🌱 Омӯхта истодаам: **JavaScript, TensorFlow, Nginx, HTML/CSS**
+- 💡 Шиори ман: **"Озод зиндагӣ кунед, Озод андешед ва Озодӣ ҳадя кунед."**
+- 🎯 Ҳадафи 1 сол: **Англисиамро аз A2 ба C2 расонам**
+- 🎯 Ҳадафи 5 сол: **Хатми донишгоҳ ва муҳоҷират ба Амрико ё Олмон**
+
+---
+
+## 🛠 Маҳоратҳои техникӣ
+
+<h3 align="center">⚡ Забонҳои барномасозӣ</h3>
 <p align="center">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
+</p>
+
+<h3 align="center">⚡ Фреймворк ва китобхонаҳо</h3>
+<p align="center">
   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
-  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" />
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" />
+  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
+  <img src="https://img.shields.io/badge/aiogram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" />
+</p>
+
+<h3 align="center">⚡ Технологияҳои дигар</h3>
+<p align="center">
   <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" />
-  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
+  <img src="https://img.shields.io/badge/VPS-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white" />
+  <img src="https://img.shields.io/badge/API-FF6C37?style=for-the-badge&logo=postman&logoColor=white" />
 </p>
 
 ---
 
-## 📈 Омори GitHub
+## 📊 Дараҷаи дониш
 
 <p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=truesanjar&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" />
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=truesanjar&theme=tokyonight&hide_border=true&background=0D1117" />
+  <img src="https://github-readme-stats.vercel.app/api?username=asadzoda&show_icons=true&theme=dark&bg_color=0D1117&border_color=00FF88&title_color=00FF88&icon_color=00FF88" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=asadzoda&theme=dark&background=0D1117&border=00FF88&stroke=00FF88&ring=00FF88&fire=00FF88&currStreakNum=00FF88" width="48%" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=truesanjar&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=asadzoda&layout=compact&theme=dark&bg_color=0D1117&border_color=00FF88&title_color=00FF88" />
 </p>
 
 ---
 
-## 🏆 Лоиҳаҳои барҷаста
+## 🏆 Лоиҳаҳои ман
 
-### 1. 🌐 [Номи лоиҳаи 1]()
-<img align="right" width="200" src="https://miro.medium.com/v2/resize:fit:1400/1*LY7WnNlPtoJ94-XPllzX2w.gif" />
-**Тавсиф:** Вебсайти пурра барои фурӯши маҳсулот бо интерфейси замонавӣ ва системаи пардохти онлайн.  
-**Технология:** React, Node.js, MongoDB, Stripe API  
-**Натиҷа:** 500+ корбари фаъол дар як моҳ.
-
-<br clear="both"/>
-
----
-
-### 2. 📱 [Номи лоиҳаи 2]()
-<img align="right" width="200" src="https://i.pinimg.com/originals/c7/2e/16/c72e162a6f873019e3a39373ef9bf62c.gif" />
-**Тавсиф:** Барномаи мобилӣ барои пайгирии саломатӣ ва варзиш.  
-**Технология:** React Native, Firebase, Redux  
-**Натиҷа:** Дар Google Play 1000+ бор боргирӣ шуд.
-
-<br clear="both"/>
-
----
-
-### 3. 🤖 [Номи лоиҳаи 3]()
-<img align="right" width="200" src="https://media.tenor.com/qJ5evVs-_uUAAAAC/coding.gif" />
-**Тавсиф:** Боти телеграм барои ёрии рӯзмарра бо истифода аз AI.  
-**Технология:** Python, aiogram, OpenAI API  
-**Натиҷа:** 500+ корбар дар як ҳафта.
-
-<br clear="both"/>
-
----
-
-## 📫 Тамос ва иҷтимоъ
+### 1. 🌐 AnyVoice - Social Network for Freedom of Speech
 
 <p align="center">
-  <a href="https://t.me/USERNAME"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" /></a>
-  <a href="https://www.instagram.com/USERNAME/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
-  <a href="https://www.linkedin.com/in/USERNAME/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="mailto:EMAIL"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  <a href="https://github.com/USERNAME"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" /></a>
+  <img src="https://www.anyvoice.world/logo.png" width="200" alt="AnyVoice Logo" />
+</p>
+
+> **"Озод зиндагӣ кунед, Озод андешед ва Озодӣ ҳадя кунед."**
+
+**Тавсиф:** Шабакаи иҷтимоие, ки ба одамон имкон медиҳад бидуни нигаронӣ аз ошкор шудан, фикрҳои худро баён кунанд. Сабти ном бе маълумоти шахсӣ имконпазир аст. Шумо метавонед аксҳо, видеоҳо ва мақолаҳоятонро бо озодии комил нашр кунед.
+
+**Технология:**
+<p>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB" />
+  <img src="https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white" />
+  <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=flat&logo=mongodb&logoColor=white" />
+  <img src="https://img.shields.io/badge/WebSocket-010101?style=flat&logo=socket.io&logoColor=white" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/i18n-26A5E4?style=flat&logo=global&logoColor=white" />
+</p>
+
+🔗 **Сайт:** [anyvoice.world](https://www.anyvoice.world/)
+
+---
+
+### 2. ⏳ Capsulix Bot - Time Capsule in Telegram
+
+<p align="center">
+  <img src="https://www.sanjar.world/capsulix.jpg" width="200" alt="Capsulix Bot" />
+</p>
+
+**Тавсиф:** Боти Telegram, ки ба шумо имкон медиҳад ба ояндаи худ паём фиристед. Шумо санаро муайян мекунед ва бот дар он рӯз паёматонро ба шумо мефиристад.
+
+**Технология:**
+<p>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/aiogram-2CA5E0?style=flat&logo=telegram&logoColor=white" />
+</p>
+
+🔗 **Бот:** [@Capsulixbot](https://t.me/Capsulixbot)
+
+---
+
+### 3. 🧑‍💻 sanjar.world - Personal Portfolio
+
+<p align="center">
+  <img src="https://www.sanjar.world/truesanjar.png" width="200" alt="Sanjar World" />
+</p>
+
+**Тавсиф:** Портфолиои шахсӣ бо тамоми лоиҳаҳо, маҳоратҳо ва фикрҳои ман. Дастгирии 3 забон (тоҷикӣ, русӣ, англисӣ) ва 2 намуди тарҳ (light/dark). Пурра барои дастгоҳҳои мобилӣ мутобиқшуда.
+
+**Технология:**
+<p>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB" />
+  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat&logo=tailwind-css&logoColor=white" />
+  <img src="https://img.shields.io/badge/i18n-26A5E4?style=flat&logo=global&logoColor=white" />
+</p>
+
+🔗 **Сайт:** [sanjar.world](https://www.sanjar.world/)
+
+---
+
+### 4. 🔒 Messenger0 - Secure Messenger
+
+<p align="center">
+  <img src="https://www.messenger0.world/logo.png" width="200" alt="Messenger0 Logo" />
+</p>
+
+**Тавсиф:** Мессенҷер бо системаи шифргузории E2EE. Сабти ном танҳо бо ҳисоби Google. Шумо метавонед ҳар як корбари дигарро ҷустуҷӯ кунед ва бо онҳо муколамаи комилан амн дошта бошед.
+
+**Технология:**
+<p>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB" />
+  <img src="https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white" />
+  <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=flat&logo=mongodb&logoColor=white" />
+  <img src="https://img.shields.io/badge/WebSocket-010101?style=flat&logo=socket.io&logoColor=white" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat&logo=tailwind-css&logoColor=white" />
+</p>
+
+🔗 **Сайт:** [messenger0.world](https://www.messenger0.world/)
+
+---
+
+## 📈 Дастаи технологӣ (Technology Radar)
+
+<p align="center">
+  <table>
+    <tr>
+      <td><b>🔥 Дӯстдошта</b></td>
+      <td>Python • React • FastAPI • VPS • MongoDB</td>
+    </tr>
+    <tr>
+      <td><b>📚 Дар ҳоли омӯзиш</b></td>
+      <td>JavaScript • TensorFlow • Nginx • HTML/CSS</td>
+    </tr>
+    <tr>
+      <td><b>💡 Таҷрибаи кофӣ</b></td>
+      <td>aiogram • Git/GitHub • VS Code • API • Tailwind</td>
+    </tr>
+    <tr>
+      <td><b>🚀 Барои рушд</b></td>
+      <td>Docker • Linux/Bash</td>
+    </tr>
+  </table>
 </p>
 
 ---
 
-## ✨ Пайвандҳои муфид
+## 🌍 Забонҳо
 
-- 🌍 [Сайти шахсии ман](https://yourwebsite.com)
-- 📝 [Блоги ман](https://yourblog.com)
-- 🎥 [Канали YouTube](https://youtube.com)
+<p align="center">
+  <img src="https://img.shields.io/badge/Тоҷикӣ-Модари-00FF88?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Англисӣ-Миёна (A2→C2)-FFA500?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Русӣ-Паст-FF4444?style=for-the-badge" />
+</p>
+
+> 🎯 **Ҳадаф:** Англисиамро дар 1 сол аз A2 ба C2 расонам!
+
+---
+
+## 📱 Тамос бо ман
+
+<p align="center">
+  <a href="https://t.me/asadzoda_01"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" /></a>
+  <a href="https://www.instagram.com/asadzoda_01/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/sanjar-asadzoda-1b9a3a24b/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="mailto:contact@sanjar.world"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://github.com/asadzoda"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" /></a>
+</p>
+
+<p align="center">
+  <a href="https://sanjar.world"><img src="https://img.shields.io/badge/Portfolio-00FF88?style=for-the-badge&logo=vercel&logoColor=black" /></a>
+  <a href="https://anyvoice.world"><img src="https://img.shields.io/badge/AnyVoice-FF6B6B?style=for-the-badge&logo=social&logoColor=white" /></a>
+  <a href="https://messenger0.world"><img src="https://img.shields.io/badge/Messenger0-4A90E2?style=for-the-badge&logo=signal&logoColor=white" /></a>
+</p>
+
+---
+
+## 🎬 Филми дӯстдошта
+
+<p align="center">
+  <img src="https://media.giphy.com/media/3o7abkhJp7A5qMhVFK/giphy.gif" width="400" alt="The Social Network" />
+</p>
+
+<p align="center" style="font-size: 20px;">
+  🎥 <b>"The Social Network"</b> — Филме, ки маро ба сохтани шабакаҳои иҷтимоӣ илҳом бахшид!
+</p>
+
+---
+
+## 🎯 Ҳадафҳои ман
+
+| Муддат | Ҳадаф |
+|--------|-------|
+| **1 сол** | Англисиамро аз A2 ба C2 расонам |
+| **5 сол** | Хатми донишгоҳ дар Тоҷикистон ва муҳоҷират ба **Амрико** ё **Олмон** |
+| **Дарозмуддат** | Стартапи худро созам ва дар соҳаи **AI** кор кунам |
+
+---
+
+## 💫 Омори лоиҳаҳо
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Лоиҳаҳо-4-00FF88?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Сайтҳои_зинда-3-00FF88?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Боти_Telegram-1-00FF88?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Технологияҳо-14+-00FF88?style=for-the-badge" />
+</p>
 
 ---
 
 ## 💬 Хулоса
 
-> "Код навиштан осон аст, аммо навиштани коди хондашаванда ва нигоҳдошташаванда санъат аст." — ман
+> **"Озод зиндагӣ кунед, Озод андешед ва Озодӣ ҳадя кунед."**
 
-Агар шумо лоиҳае дошта бошед ё ҳамкорӣ мехоҳед, бо ман тамос гиред. Ман ҳамеша барои кӯмак ва табодули таҷриба омодаам! 🚀
+Ман Асадзода Санҷар — муҳандиси нармафзоре ҳастам, ки ба озодӣ ва эҷодкорӣ бовар дорад. Ҳар як лоиҳаи ман барои он сохта шудааст, ки ба одамон имкони ифодаи фикр ва муоширати амнро диҳад.
+
+Агар шумо ҳам фикрҳои монанд дошта бошед ё лоиҳаи муштарак мехоҳед, ба ман бинависед! Ҳамеша ба ҳамкорӣ омодаам. 🚀
+
+---
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=1000&color=00FFAA&center=true&vCenter=true&width=435&lines=%D0%A2%D0%B0%D1%88%D0%B0%D0%BA%D0%BA%D1%83%D0%BB+%D0%B1%D0%B0%D1%80%D0%BE%D0%B8+%D0%B4%D0%B8%D0%B4%D0%B0%D0%BD;%D0%91%D0%B0+%D0%BE%D1%80%D0%B4%D0%B0%D0%B8+%D1%88%D1%83%D0%BC%D0%BE+%D0%BC%D0%BE%D0%BD%D1%82%D0%B0%D0%B7%D0%B8%D1%80!;%D0%A1%D0%B0%D0%BB%D0%BE%D0%BC+%D0%B0%D0%B7+%D0%A2%D0%BE%D2%B7%D0%B8%D0%BA%D0%B8%D1%81%D1%82%D0%BE%D0%BD%F0%9F%87%B9%F0%9F%87%AF" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=1000&color=00FF88&center=true&vCenter=true&width=500&lines=%D0%90%D0%B7+%D0%A2%D0%BE%D2%B7%D0%B8%D0%BA%D0%B8%D1%81%D1%82%D0%BE%D0%BD+%D0%B1%D0%B0+%D0%B4%D1%83%D0%BD%D1%91;%D0%91%D0%BE+%D0%AD%D0%B7%D0%BE%D0%B4%D1%96+%D0%B1%D0%B0%D0%BD%D0%B0%D1%88%D1%8D%D0%BC;%D0%9E%D0%B7%D0%BE%D0%B4+%D0%B0%D0%BD%D0%B4%D0%B5%D1%88%D0%B5%D0%BC!;%D0%9E%D0%B7%D0%BE%D0%B4%D0%B8%D0%B5%D0%BC+%D2%B3%D0%B0%D0%B4%D1%8F%20%D0%BC%D0%B5%D0%BA%D1%83%D0%BD%D0%B5%D0%BC!" alt="Typing SVG" />
 </p>
+
+---
+
+<div align="center">
+  <sub>Сохта шуд бо ❤️ дар Тоҷикистон • 2024</sub>
+</div>
