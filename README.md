@@ -25,7 +25,7 @@
 I am a **17-year-old software engineer** living in **Tursunzoda (a city in Tajikistan)**. With **2+ years** of experience in **web development**, I build full-stack projects (from frontend to backend and deployment). My goal is to create platforms that give people **FREEDOM**.
 
 - 🔭 Currently working on: **Searching for a problem to solve and building a startup**
-- 🌱 Learning: **JavaScript, TensorFlow, Nginx, HTML/CSS**
+- 🌱 Learning: **JavaScript, Pytorch, Nginx, HTML/CSS**
 - 💡 My motto: **"Live free, think free, and give freedom."**
 - 🎯 Future goal: **Building a startup. But I don't have an idea yet, so I'm looking for one.**
 
