@@ -205,4 +205,4 @@ I am a **17-year-old software engineer** living in **Tursunzoda (a city in Tajik
 |----------|------|
 | **1 year** | Improve my English from A2 to C2 |
 | **5 years** | Graduate from university in Tajikistan and immigrate to **the USA** or **Germany** |
-| **Long-term** | Build my own startup or work in the field of **AI** |
+| **Long-term** | Build my own startup or work in the field of **Web** |
