@@ -204,5 +204,5 @@ I am a **17-year-old software engineer** living in **Tursunzoda (a city in Tajik
 | Timeline | Goal |
 |----------|------|
 | **1 year** | Improve my English from A2 to C2 |
-| **5 years** | Graduate from university in Tajikistan and immigrate to **the USA** or **Germany** |
+| **5 years** | Graduate from university in Tajikistan and immigrate to **the USA** or **Turkey** |
 | **Long-term** | Build my own startup or work in the field of **Web** |
