@@ -192,7 +192,6 @@ I am a **17-year-old software engineer** living in **Tursunzoda (a city in Tajik
   <a href="https://t.me/truesanjar"><img src="https://cdn.simpleicons.org/telegram" width="40" /></a>&nbsp;&nbsp;&nbsp;
   <a href="https://signal.me/#eu/pMdvF4xmRcsM8hSjDON1sSo_XICNIv5XfR0bBspgtF2VujTcWURKx7BTTWzo--ku"><img src="https://cdn.simpleicons.org/signal" width="40" /></a>&nbsp;&nbsp;&nbsp;
   <a href="https://wa.me/992078804334"><img src="https://cdn.simpleicons.org/whatsapp" width="40" /></a>&nbsp;&nbsp;&nbsp;
-  <a href="https://www.instagram.com/truesanjar/"><img src="https://skillicons.dev/icons?i=instagram" width="40" /></a>&nbsp;&nbsp;&nbsp;
   <a href="https://www.linkedin.com/in/truesanjar/"><img src="https://skillicons.dev/icons?i=linkedin" width="40" /></a>&nbsp;&nbsp;&nbsp;
   <a href="mailto:truesanjar@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" width="40" /></a>
 </p>
