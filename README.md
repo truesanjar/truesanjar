@@ -10,10 +10,10 @@
 
 <h1 align="center">👋 Hi! I'm Asadzoda Sanjar Ilhom</h1>
 
-<h3 align="center" style="color: #00FF88;">Software Engineer | 17 years old | From Tajikistan</h3>
+<h3 align="center" style="color: #00FF88;">Software Engineer | 18 years old | From Tajikistan</h3>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Age-17-white?style=for-the-badge&labelColor=black" />
+  <img src="https://img.shields.io/badge/Age-18-white?style=for-the-badge&labelColor=black" />
   <img src="https://img.shields.io/badge/From-Tajikistan-white?style=for-the-badge&labelColor=black" />
   <img src="https://img.shields.io/badge/Experience-2%2B%20Years-white?style=for-the-badge&labelColor=black" />
 </p>
@@ -22,7 +22,7 @@
 
 ## 🚀 About Me
 
-I am a **17-year-old software engineer** living in **Tursunzoda (a city in Tajikistan)**. With **2+ years** of experience in **web development**, I build full-stack projects (from frontend to backend and deployment). My goal is to create platforms that give people **FREEDOM**.
+I am a **18-year-old software engineer** living in **Tursunzoda (a city in Tajikistan)**. With **2+ years** of experience in **web development**, I build full-stack projects (from frontend to backend and deployment). My goal is to create platforms that give people **FREEDOM**.
 
 - 🔭 Currently working on: **Searching for a problem to solve and building a startup**
 - 🌱 Learning: **JavaScript, Pytorch, Nginx, HTML/CSS**
